@@ -5,10 +5,17 @@ A collection of links to Microsoft Azure Blockchain Resources, including service
 
 Channel9 BlockTalk Videos: https://channel9.msdn.com/Shows/Blocktalk
 
-
-### Blockchain as a Service
+### Azure Blockchain Service & Development Kit
 
 Microsoft Blockchain: https://azure.microsoft.com/en-ca/solutions/blockchain/
+
+Azure Blockchain Service: https://azure.microsoft.com/en-ca/services/blockchain-service/
+
+Azure Blockchain DevKit: https://github.com/Azure-Samples/blockchain-devkit
+
+Azure Blockchain DevKit Extension for VSCode: https://marketplace.visualstudio.com/items?itemName=AzBlockchain.azure-blockchain
+
+### Azure Blockchain Workbench PoC Accelerator Framework
 
 Blockchain Workbench: https://aka.ms/abcworkbench
 
@@ -20,9 +27,7 @@ Workbench Intro Video part 1: https://www.youtube.com/watch?v=gwrYspdaOx8
 
 Workbench Intro Video part 2: https://www.youtube.com/watch?v=mlRx52p61_g&t=129s
 
-Blockchain DevKit: https://github.com/Azure-Samples/blockchain-devkit
-
-Azure Blockchain DevKit for VSCode: https://marketplace.visualstudio.com/items?itemName=AzBlockchain.azure-blockchain
+Workbench Workshop: https://github.com/microsoft/MCW-Azure-Blockchain
 
 ### Decentralized Identity
 
@@ -42,12 +47,15 @@ Token Taxonomy Initative: https://entethalliance.org/participate/token-taxonomy-
 
 Precursor - Enterprise Smart Contracts and Whitepaper: https://azure.microsoft.com/en-ca/blog/introducing-enterprise-smart-contracts/
 
-### Frameworks
+### Ethereum Frameworks, Smart Contract libraries & Training 
 
 Solidity Training - Cryptozombies: https://cryptozombies.io/
+
+OpenZepplin - Ethereum Libraries: https://github.com/OpenZeppelin
 
 Ethereum ReadTheDocs: https://ethereum-solidity.readthedocs.io/en/latest/
 
 Truffle Framework & Suite: https://www.trufflesuite.com/
+
 
 
