@@ -23,6 +23,9 @@ Azure Blockchain Community Examples: https://github.com/Azure-Samples/bc-communi
 
 Sample of Quorum on Azure Blockchain Service with Functions + Keyvault: https://github.com/malirezai/QuorumFunctionWithKeyVault
 
+### Corda Enterprise Scale Deployment (IaaS) Guide: 
+https://azure.microsoft.com/en-us/resources/corda-enterprise-scale-deployment-on-azure/en-us/
+
 ### Azure Blockchain Workbench PoC Accelerator Framework
 
 Blockchain Workbench: https://aka.ms/abcworkbench
