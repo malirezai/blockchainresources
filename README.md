@@ -3,12 +3,12 @@ A collection of links to Microsoft Azure Blockchain Resources, including service
 
 Follow MSFTBlockchain on Twitter: https://twitter.com/MSFTBlockchain
 
-### BlockTalk
+## BlockTalk
 
 A Collection of bite-sized videos on everything Blockchain
 Channel9 BlockTalk Videos: https://channel9.msdn.com/Shows/Blocktalk
 
-### Azure Blockchain
+## Azure Blockchain
 
 Microsoft Blockchain: https://azure.microsoft.com/en-ca/solutions/blockchain/
 
@@ -16,7 +16,7 @@ Azure Blockchain Community Examples: https://github.com/Azure-Samples/bc-communi
 
 Starbucks Blockchain Use Case Overview at //Build: https://mybuild.techcommunity.microsoft.com/sessions/77348?source=sessions#top-anchor
 
-#### Azure Blockchain Service (Quorum)
+### Azure Blockchain Service (Quorum)
 
 Azure Blockchain Service: https://azure.microsoft.com/en-ca/services/blockchain-service/
 
@@ -24,18 +24,18 @@ Azure Blockchain Service Tutorials: https://docs.microsoft.com/en-us/azure/block
 
 Sample of Quorum on Azure Blockchain Service with Functions + Keyvault: https://github.com/malirezai/QuorumFunctionWithKeyVault
 
-#### Azure Blockchain DevKit
+### Azure Blockchain DevKit
 
 Azure Blockchain DevKit: https://github.com/Azure-Samples/blockchain-devkit
 
 Azure Blockchain DevKit Extension for VSCode: https://marketplace.visualstudio.com/items?itemName=AzBlockchain.azure-blockchain
 
-#### Azure Blockchain Service (Corda)
+### Azure Blockchain Service (Corda)
 
 In PREVIEW - you need to sign up for private preview:
 https://azure.microsoft.com/en-ca/blog/introducing-corda-enterprise-on-azure-blockchain-service/
 
-#### Corda Enterprise Scale Deployment (IaaS) Guide: 
+### Corda Enterprise Scale Deployment (IaaS) Guide: 
 https://azure.microsoft.com/en-us/resources/corda-enterprise-scale-deployment-on-azure/en-us/
 
 ### Azure Blockchain Workbench PoC Accelerator Framework
@@ -59,7 +59,7 @@ Sample of connecting with Service Principal through API: https://github.com/mali
 API-API (Service Principal) interaction Blog Post: https://medium.com/@malirezaie/how-to-enable-programmatic-interaction-with-azure-blockchain-workbench-apis-56c0d95c79c0
 
 
-### Decentralized Identity
+## Decentralized Identity
 
 Decentralized Identity: https://www.microsoft.com/en/security/technology/own-your-identity
 
@@ -67,17 +67,17 @@ Decentralized Identity Project Developer Resources: https://didproject.azurewebs
 
 Decentralized Identity Intro Video: https://azure.microsoft.com/en-ca/resources/videos/azure-friday-an-introduction-to-decentralized-identities/
 
-### CCF 
+## CCF 
 
 CCF (Confidential Consortium Framework): https://github.com/microsoft/CCF
 
-### Token Taxonomy 
+## Token Taxonomy 
 
 Token Taxonomy Initative: https://entethalliance.org/participate/token-taxonomy-initiative/
 
 Precursor - Enterprise Smart Contracts and Whitepaper: https://azure.microsoft.com/en-ca/blog/introducing-enterprise-smart-contracts/
 
-### Ethereum Frameworks, Smart Contract libraries & Training 
+## Ethereum Frameworks, Smart Contract libraries & Training 
 
 Solidity Training - Cryptozombies: https://cryptozombies.io/
 
