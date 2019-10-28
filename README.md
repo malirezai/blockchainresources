@@ -44,9 +44,9 @@ Blockchain Workbench: https://aka.ms/abcworkbench
 
 Blockchain Workbench Github Repo: https://github.com/Azure-Samples/blockchain
 
-Blockchain Workbench REST API Samples + Postman Collection:https://github.com/Azure-Samples/blockchain/tree/master/blockchain-workbench/rest-api-samples
+Blockchain Workbench REST API Samples + Postman Collection: https://github.com/Azure-Samples/blockchain/tree/master/blockchain-workbench/rest-api-samples
 
-Workbench Webinar: https://1drv.ms/v/s!ArI5vFdaEzMrgnK7gt_Nn2XpOKKp?e=pscdvt
+Workbench Webinar Recording: https://1drv.ms/v/s!ArI5vFdaEzMrhQ4o_q-q8eiG_w_m
 
 Workbench Intro Video part 1: https://www.youtube.com/watch?v=gwrYspdaOx8
 
