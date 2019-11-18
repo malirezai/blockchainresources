@@ -24,6 +24,14 @@ Azure Blockchain Service Tutorials: https://docs.microsoft.com/en-us/azure/block
 
 Sample of Quorum on Azure Blockchain Service with Functions + Keyvault: https://github.com/malirezai/QuorumFunctionWithKeyVault
 
+### Azure Blockchain Data Manager 
+
+Get real-time ledger data from ABS: https://docs.microsoft.com/en-us/azure/blockchain/service/data-manager
+
+### Azure Blockchain Tokens 
+
+TTF 1.0 compliant token issuance and management across blockchain ledgers in Azure.: https://docs.microsoft.com/en-us/azure/blockchain/tokens/
+
 ### Azure Blockchain DevKit
 
 Azure Blockchain DevKit: https://github.com/Azure-Samples/blockchain-devkit
