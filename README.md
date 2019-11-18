@@ -83,7 +83,9 @@ CCF (Confidential Consortium Framework): https://github.com/microsoft/CCF
 
 Token Taxonomy Initative: https://entethalliance.org/participate/token-taxonomy-initiative/
 
-Precursor - Enterprise Smart Contracts and Whitepaper: https://azure.microsoft.com/en-ca/blog/introducing-enterprise-smart-contracts/
+Token Taxonomy Framework 1.0: https://github.com/token-taxonomy-initiative/TokenTaxonomyFramework
+
+Microsoft - Enterprise Smart Contracts and Whitepaper: https://azure.microsoft.com/en-ca/blog/introducing-enterprise-smart-contracts/
 
 ## Ethereum Frameworks, Smart Contract libraries & Training 
 
