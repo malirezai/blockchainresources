@@ -91,6 +91,8 @@ Microsoft - Enterprise Smart Contracts and Whitepaper: https://azure.microsoft.c
 
 Solidity Training - Cryptozombies: https://cryptozombies.io/
 
+Ethereum Smart Contract Best Practices: https://consensys.github.io/smart-contract-best-practices/
+
 OpenZepplin - Ethereum Libraries: https://github.com/OpenZeppelin
 
 Ethereum ReadTheDocs: https://ethereum-solidity.readthedocs.io/en/latest/
