@@ -24,6 +24,17 @@ Azure Blockchain Service Tutorials: https://docs.microsoft.com/en-us/azure/block
 
 Sample of Quorum on Azure Blockchain Service with Functions + Keyvault: https://github.com/malirezai/QuorumFunctionWithKeyVault
 
+### HLF Template for Azure Kubernetes Service
+https://github.com/ravastra/ARM-template-for-Hyperledger-Fabric-based-on-AKS
+
+### Azure Blockchain Service (Corda)
+
+In PREVIEW - you need to sign up for private preview:
+https://azure.microsoft.com/en-ca/blog/introducing-corda-enterprise-on-azure-blockchain-service/
+
+### Corda Enterprise Scale Deployment (IaaS) Guide: 
+https://azure.microsoft.com/en-us/resources/corda-enterprise-scale-deployment-on-azure/en-us/
+
 ### Azure Blockchain Data Manager 
 
 Get real-time ledger data from ABS: https://docs.microsoft.com/en-us/azure/blockchain/service/data-manager
@@ -38,13 +49,6 @@ Azure Blockchain DevKit: https://github.com/Azure-Samples/blockchain-devkit
 
 Azure Blockchain DevKit Extension for VSCode: https://marketplace.visualstudio.com/items?itemName=AzBlockchain.azure-blockchain
 
-### Azure Blockchain Service (Corda)
-
-In PREVIEW - you need to sign up for private preview:
-https://azure.microsoft.com/en-ca/blog/introducing-corda-enterprise-on-azure-blockchain-service/
-
-### Corda Enterprise Scale Deployment (IaaS) Guide: 
-https://azure.microsoft.com/en-us/resources/corda-enterprise-scale-deployment-on-azure/en-us/
 
 ### Azure Blockchain Workbench PoC Accelerator Framework
 
