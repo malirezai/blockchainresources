@@ -26,8 +26,7 @@ Azure Blockchain Service Tutorials: https://docs.microsoft.com/en-us/azure/block
 
 ##### Quorum Sample on Azure Blockchain Service with AKS (Azure Kubernetes Service): https://github.com/bobjac/QuorumAKSWithKeyVault
 
-##### IOT + Quorum sample for logging High Frequency Data: 
-https://github.com/whitneygriffith/LoggingIoTHighFrequencyDataOffChain
+##### IOT + Quorum sample for logging High Frequency Data: https://github.com/whitneygriffith/LoggingIoTHighFrequencyDataOffChain
 
 ### HLF Template for Azure Kubernetes Service
 https://github.com/ravastra/ARM-template-for-Hyperledger-Fabric-based-on-AKS
