@@ -22,7 +22,10 @@ Azure Blockchain Service: https://azure.microsoft.com/en-ca/services/blockchain-
 
 Azure Blockchain Service Tutorials: https://docs.microsoft.com/en-us/azure/blockchain/service/send-transaction
 
-Sample of Quorum on Azure Blockchain Service with Functions + Keyvault: https://github.com/malirezai/QuorumFunctionWithKeyVault
+#### Sample of Quorum on Azure Blockchain Service with Functions + Keyvault: https://github.com/malirezai/QuorumFunctionWithKeyVault
+
+##### Quorum Sample on Azure Blockchain Service with AKS (Azure Kubernetes Service): 
+https://github.com/bobjac/QuorumAKSWithKeyVault
 
 ### HLF Template for Azure Kubernetes Service
 https://github.com/ravastra/ARM-template-for-Hyperledger-Fabric-based-on-AKS
