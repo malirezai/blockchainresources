@@ -28,6 +28,10 @@ Azure Blockchain Service Tutorials: https://docs.microsoft.com/en-us/azure/block
 
 ##### IOT + Quorum sample for logging High Frequency Data: https://github.com/whitneygriffith/LoggingIoTHighFrequencyDataOffChain
 
+### Azure Blockchain Data Manager for Azure Blockchain Service (Quorum)
+
+Get real-time ledger data from ABS: https://docs.microsoft.com/en-us/azure/blockchain/service/data-manager
+
 ### HLF Template for Azure Kubernetes Service
 https://github.com/ravastra/ARM-template-for-Hyperledger-Fabric-based-on-AKS
 
@@ -38,10 +42,6 @@ https://azure.microsoft.com/en-ca/blog/introducing-corda-enterprise-on-azure-blo
 
 ### Corda Enterprise Scale Deployment (IaaS) Guide: 
 https://azure.microsoft.com/en-us/resources/corda-enterprise-scale-deployment-on-azure/en-us/
-
-### Azure Blockchain Data Manager 
-
-Get real-time ledger data from ABS: https://docs.microsoft.com/en-us/azure/blockchain/service/data-manager
 
 ### Azure Blockchain Tokens 
 
