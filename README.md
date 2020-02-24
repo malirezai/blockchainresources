@@ -33,7 +33,7 @@ Azure Blockchain Service Tutorials: https://docs.microsoft.com/en-us/azure/block
 Get real-time ledger data from ABS: https://docs.microsoft.com/en-us/azure/blockchain/service/data-manager
 
 ### HLF Template for Azure Kubernetes Service
-https://github.com/ravastra/ARM-template-for-Hyperledger-Fabric-based-on-AKS
+https://github.com/Azure/Hyperledger-Fabric-on-Azure-Kubernetes-Service
 
 ### Azure Blockchain Service (Corda)
 
