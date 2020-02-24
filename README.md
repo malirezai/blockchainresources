@@ -101,7 +101,9 @@ Solidity Training - Cryptozombies: https://cryptozombies.io/
 
 Ethereum Smart Contract Best Practices: https://consensys.github.io/smart-contract-best-practices/
 
-OpenZepplin - Ethereum Libraries: https://github.com/OpenZeppelin
+OpenZepplin
+- Ethereum Libraries: https://github.com/OpenZeppelin
+- Contracts SDK: https://openzeppelin.com/contracts/
 
 Ethereum ReadTheDocs: https://ethereum-solidity.readthedocs.io/en/latest/
 
