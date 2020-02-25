@@ -109,5 +109,8 @@ Ethereum ReadTheDocs: https://ethereum-solidity.readthedocs.io/en/latest/
 
 Truffle Framework & Suite: https://www.trufflesuite.com/
 
+## Interesting Reads (not all are Microsoft related)
 
+Conensys - list of Government agencies using blockchain today: https://consensys.net/blog/enterprise-blockchain/which-governments-are-using-blockchain-right-now/
 
+Conensys - Blockchain use cases: https://consensys.net/blockchain-use-cases/
