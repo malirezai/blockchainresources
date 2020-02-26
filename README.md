@@ -1,5 +1,5 @@
-# Microsoft Blockchain
-A collection of links to Microsoft Azure Blockchain Resources, including services, Identity, and Tokens
+# Blockchain Resources
+A collection of links to Microsoft Azure Blockchain Resources, including services, Identity, and Tokens. Also, at the bottom you will find a list of interesting links regarding blockchain and various use cases within industry.
 
 Follow MSFTBlockchain on Twitter: https://twitter.com/MSFTBlockchain
 
@@ -109,7 +109,7 @@ Ethereum ReadTheDocs: https://ethereum-solidity.readthedocs.io/en/latest/
 
 Truffle Framework & Suite: https://www.trufflesuite.com/
 
-## Interesting Reads (not all are Microsoft related)
+## Interesting Reads
 
 Conensys - list of Government agencies using blockchain today: https://consensys.net/blog/enterprise-blockchain/which-governments-are-using-blockchain-right-now/
 
