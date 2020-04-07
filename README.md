@@ -8,7 +8,7 @@ Follow MSFTBlockchain on Twitter: https://twitter.com/MSFTBlockchain
 A Collection of bite-sized videos on everything Blockchain
 Channel9 BlockTalk Videos: https://channel9.msdn.com/Shows/Blocktalk
 
-## Azure Blockchain
+## Blockchain on Azure
 
 Microsoft Blockchain: https://azure.microsoft.com/en-ca/solutions/blockchain/
 
@@ -29,18 +29,17 @@ Azure Blockchain Service Tutorials: https://docs.microsoft.com/en-us/azure/block
 ##### IOT + Quorum sample for logging High Frequency Data: https://github.com/whitneygriffith/LoggingIoTHighFrequencyDataOffChain
 
 ### Azure Blockchain Data Manager for Azure Blockchain Service (Quorum)
-
 Get real-time ledger data from ABS: https://docs.microsoft.com/en-us/azure/blockchain/service/data-manager
 
-### HLF Template for Azure Kubernetes Service
+### Hyperleger Fabric Template for Azure Kubernetes Service
 https://github.com/Azure/Hyperledger-Fabric-on-Azure-Kubernetes-Service
 
-### Azure Blockchain Service (Corda)
+### Corda Template for Azure Kubernetes Service
+https://solutions.corda.net/deployment/kubernetes/architecture-overview.html#
 
-In PREVIEW - you need to sign up for private preview:
-https://azure.microsoft.com/en-ca/blog/introducing-corda-enterprise-on-azure-blockchain-service/
+https://github.com/corda/corda-kubernetes-deployment
 
-### Corda Enterprise Scale Deployment (IaaS) Guide: 
+#### Corda Enterprise Scale Deployment (IaaS) Guide: 
 https://azure.microsoft.com/en-us/resources/corda-enterprise-scale-deployment-on-azure/en-us/
 
 ### Azure Blockchain Tokens 
