@@ -35,6 +35,7 @@ Get real-time ledger data from ABS: https://docs.microsoft.com/en-us/azure/block
 https://github.com/Azure/Hyperledger-Fabric-on-Azure-Kubernetes-Service
 
 ### (NEW) Azure Blockchain Service for Hyperleger Fabric (Private Preview)
+Managed HLF Orderer and Peer nodes. 
 Sign up for the private preview here: https://aka.ms/hlfpreviewsignup 
 
 ### Corda Template for Azure Kubernetes Service
