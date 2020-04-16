@@ -28,11 +28,14 @@ Azure Blockchain Service Tutorials: https://docs.microsoft.com/en-us/azure/block
 
 ##### IOT + Quorum sample for logging High Frequency Data: https://github.com/whitneygriffith/LoggingIoTHighFrequencyDataOffChain
 
-### Azure Blockchain Data Manager for Azure Blockchain Service (Quorum)
+#### Azure Blockchain Data Manager for Azure Blockchain Service (Quorum)
 Get real-time ledger data from ABS: https://docs.microsoft.com/en-us/azure/blockchain/service/data-manager
 
 ### Hyperleger Fabric Template for Azure Kubernetes Service
 https://github.com/Azure/Hyperledger-Fabric-on-Azure-Kubernetes-Service
+
+### (NEW) Azure Blockchain Service for Hyperleger Fabric (Private Preview)
+Sign up for the private preview here: https://aka.ms/hlfpreviewsignup 
 
 ### Corda Template for Azure Kubernetes Service
 https://solutions.corda.net/deployment/kubernetes/architecture-overview.html#
