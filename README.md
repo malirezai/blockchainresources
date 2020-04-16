@@ -29,91 +29,90 @@ Channel9 BlockTalk Videos: https://channel9.msdn.com/Shows/Blocktalk
 ##### IOT + Quorum sample for logging High Frequency Data: https://github.com/whitneygriffith/LoggingIoTHighFrequencyDataOffChain
 
 #### Azure Blockchain Data Manager for Azure Blockchain Service (Quorum)
-Get real-time ledger data from ABS: https://docs.microsoft.com/en-us/azure/blockchain/service/data-manager
+- Get real-time ledger data from ABS: https://docs.microsoft.com/en-us/azure/blockchain/service/data-manager
 
 ### Hyperleger Fabric Template for Azure Kubernetes Service
 https://github.com/Azure/Hyperledger-Fabric-on-Azure-Kubernetes-Service
 
 ### (NEW) Azure Blockchain Service for Hyperleger Fabric (Private Preview)
-Managed HLF Orderer and Peer nodes. 
-Sign up for the private preview here: https://aka.ms/hlfpreviewsignup 
+- Managed HLF Orderer and Peer nodes Sign up for the private preview here: https://aka.ms/hlfpreviewsignup 
 
 ### Corda Template for Azure Kubernetes Service
-https://solutions.corda.net/deployment/kubernetes/architecture-overview.html#
+- Corda AKS Deployment Guide: https://solutions.corda.net/deployment/kubernetes/architecture-overview.html#
 
-https://github.com/corda/corda-kubernetes-deployment
+- Corda AKS Github Repo: https://github.com/corda/corda-kubernetes-deployment
 
 #### Corda Enterprise Scale Deployment (IaaS) Guide: 
-https://azure.microsoft.com/en-us/resources/corda-enterprise-scale-deployment-on-azure/en-us/
+- Corda IaaS PDF: https://azure.microsoft.com/en-us/resources/corda-enterprise-scale-deployment-on-azure/en-us/
 
 ### Azure Blockchain Tokens 
 
-TTF 1.0 compliant token issuance and management across blockchain ledgers in Azure.: https://docs.microsoft.com/en-us/azure/blockchain/tokens/
+- TTF 1.0 compliant token issuance and management across blockchain ledgers in Azure.: https://docs.microsoft.com/en-us/azure/blockchain/tokens/
 
 ### Azure Blockchain DevKit
 
-Azure Blockchain DevKit: https://github.com/Azure-Samples/blockchain-devkit
+- Azure Blockchain DevKit: https://github.com/Azure-Samples/blockchain-devkit
 
-Azure Blockchain DevKit Extension for VSCode: https://marketplace.visualstudio.com/items?itemName=AzBlockchain.azure-blockchain
+- Azure Blockchain DevKit Extension for VSCode: https://marketplace.visualstudio.com/items?itemName=AzBlockchain.azure-blockchain
 
 
 ### Azure Blockchain Workbench PoC Accelerator Framework
 
-Blockchain Workbench: https://aka.ms/abcworkbench
+- Blockchain Workbench: https://aka.ms/abcworkbench
 
-Blockchain Workbench Github Repo: https://github.com/Azure-Samples/blockchain
+- Blockchain Workbench Github Repo: https://github.com/Azure-Samples/blockchain
 
-Blockchain Workbench REST API Samples + Postman Collection: https://github.com/Azure-Samples/blockchain/tree/master/blockchain-workbench/rest-api-samples
+- Blockchain Workbench REST API Samples + Postman Collection: https://github.com/Azure-Samples/blockchain/tree/master/blockchain-workbench/rest-api-samples
 
-Workbench Webinar Recording: https://1drv.ms/v/s!ArI5vFdaEzMrhQ4o_q-q8eiG_w_m
+- Workbench Webinar Recording: https://1drv.ms/v/s!ArI5vFdaEzMrhQ4o_q-q8eiG_w_m
 
-Workbench Intro Video part 1: https://www.youtube.com/watch?v=gwrYspdaOx8
+- Workbench Intro Video part 1: https://www.youtube.com/watch?v=gwrYspdaOx8
 
-Workbench Intro Video part 2: https://www.youtube.com/watch?v=mlRx52p61_g&t=129s
+- Workbench Intro Video part 2: https://www.youtube.com/watch?v=mlRx52p61_g&t=129s
 
-Workbench Workshop: https://github.com/microsoft/MCW-Azure-Blockchain
+- Workbench Workshop: https://github.com/microsoft/MCW-Azure-Blockchain
 
-Sample of connecting with Service Principal through API: https://github.com/malirezai/WorkbenchAzureFunctionAPI
+- *Sample of connecting with Service Principal through API:* https://github.com/malirezai/WorkbenchAzureFunctionAPI
 
-API-API (Service Principal) interaction Blog Post: https://medium.com/@malirezaie/how-to-enable-programmatic-interaction-with-azure-blockchain-workbench-apis-56c0d95c79c0
+- *API-API (Service Principal) interaction Blog Post:* https://medium.com/@malirezaie/how-to-enable-programmatic-interaction-with-azure-blockchain-workbench-apis-56c0d95c79c0
 
 
 ## Decentralized Identity
 
-Decentralized Identity: https://www.microsoft.com/en/security/technology/own-your-identity
+- Decentralized Identity: https://www.microsoft.com/en/security/technology/own-your-identity
 
-Decentralized Identity Project Developer Resources: https://didproject.azurewebsites.net/
+- Decentralized Identity Project Developer Resources: https://didproject.azurewebsites.net/
 
-Decentralized Identity Intro Video: https://azure.microsoft.com/en-ca/resources/videos/azure-friday-an-introduction-to-decentralized-identities/
+- Decentralized Identity Intro Video: https://azure.microsoft.com/en-ca/resources/videos/azure-friday-an-introduction-to-decentralized-identities/
 
 ## CCF 
 
-CCF (Confidential Consortium Framework): https://github.com/microsoft/CCF
+- CCF (Confidential Consortium Framework using Azure Confidential Compute): https://github.com/microsoft/CCF
 
 ## Token Taxonomy 
 
-Token Taxonomy Initative: https://entethalliance.org/participate/token-taxonomy-initiative/
+- Token Taxonomy Initative: https://entethalliance.org/participate/token-taxonomy-initiative/
 
-Token Taxonomy Framework 1.0: https://github.com/token-taxonomy-initiative/TokenTaxonomyFramework
+- Token Taxonomy Framework 1.0: https://github.com/token-taxonomy-initiative/TokenTaxonomyFramework
 
-Microsoft - Enterprise Smart Contracts and Whitepaper: https://azure.microsoft.com/en-ca/blog/introducing-enterprise-smart-contracts/
+- Microsoft - Enterprise Smart Contracts and Whitepaper: https://azure.microsoft.com/en-ca/blog/introducing-enterprise-smart-contracts/
 
 ## Ethereum Frameworks, Smart Contract libraries & Training 
 
-Solidity Training - Cryptozombies: https://cryptozombies.io/
+- Solidity Training - Cryptozombies: https://cryptozombies.io/
 
-Ethereum Smart Contract Best Practices: https://consensys.github.io/smart-contract-best-practices/
+- Ethereum Smart Contract Best Practices: https://consensys.github.io/smart-contract-best-practices/
 
-OpenZepplin
-- Ethereum Libraries: https://github.com/OpenZeppelin
-- Contracts SDK: https://openzeppelin.com/contracts/
+- OpenZepplin
+  - Ethereum Libraries: https://github.com/OpenZeppelin
+  - Contracts SDK: https://openzeppelin.com/contracts/
 
-Ethereum ReadTheDocs: https://ethereum-solidity.readthedocs.io/en/latest/
+- Ethereum ReadTheDocs: https://ethereum-solidity.readthedocs.io/en/latest/
 
-Truffle Framework & Suite: https://www.trufflesuite.com/
+- Truffle Framework & Suite: https://www.trufflesuite.com/
 
 ## Interesting Reads
 
-Conensys - list of Government agencies using blockchain today: https://consensys.net/blog/enterprise-blockchain/which-governments-are-using-blockchain-right-now/
+- Conensys - list of Government agencies using blockchain today: https://consensys.net/blog/enterprise-blockchain/which-governments-are-using-blockchain-right-now/
 
-Conensys - Blockchain use cases: https://consensys.net/blockchain-use-cases/
+- Conensys - Blockchain use cases: https://consensys.net/blockchain-use-cases/
