@@ -22,17 +22,17 @@ Channel9 BlockTalk Videos: https://channel9.msdn.com/Shows/Blocktalk
 
 - Azure Blockchain Service Tutorials: https://docs.microsoft.com/en-us/azure/blockchain/service/send-transaction
 
-##### Quorum Sample on Azure Blockchain Service with Functions + Keyvault: https://github.com/malirezai/QuorumFunctionWithKeyVault
+- **Quorum Sample on Azure Blockchain Service with Functions + Keyvault:** https://github.com/malirezai/QuorumFunctionWithKeyVault
 
-##### Quorum Sample on Azure Blockchain Service with AKS (Azure Kubernetes Service): https://github.com/bobjac/QuorumAKSWithKeyVault
+- **Quorum Sample on Azure Blockchain Service with AKS (Azure Kubernetes Service):** https://github.com/bobjac/QuorumAKSWithKeyVault
 
-##### IOT + Quorum sample for logging High Frequency Data: https://github.com/whitneygriffith/LoggingIoTHighFrequencyDataOffChain
+- **IOT + Quorum sample for logging High Frequency Data:** https://github.com/whitneygriffith/LoggingIoTHighFrequencyDataOffChain
 
 #### Azure Blockchain Data Manager for Azure Blockchain Service (Quorum)
 - Get real-time ledger data from ABS: https://docs.microsoft.com/en-us/azure/blockchain/service/data-manager
 
 ### Hyperleger Fabric Template for Azure Kubernetes Service
-https://github.com/Azure/Hyperledger-Fabric-on-Azure-Kubernetes-Service
+- AKS Template Source and guide: https://github.com/Azure/Hyperledger-Fabric-on-Azure-Kubernetes-Service
 
 ### (NEW) Azure Blockchain Service for Hyperleger Fabric (Private Preview)
 - Managed HLF Orderer and Peer nodes Sign up for the private preview here: https://aka.ms/hlfpreviewsignup 
@@ -72,9 +72,9 @@ https://github.com/Azure/Hyperledger-Fabric-on-Azure-Kubernetes-Service
 
 - Workbench Workshop: https://github.com/microsoft/MCW-Azure-Blockchain
 
-- *Sample of connecting with Service Principal through API:* https://github.com/malirezai/WorkbenchAzureFunctionAPI
+- **Sample of connecting with Service Principal through API:** https://github.com/malirezai/WorkbenchAzureFunctionAPI
 
-- *API-API (Service Principal) interaction Blog Post:* https://medium.com/@malirezaie/how-to-enable-programmatic-interaction-with-azure-blockchain-workbench-apis-56c0d95c79c0
+- **API-API (Service Principal) interaction Blog Post:** https://medium.com/@malirezaie/how-to-enable-programmatic-interaction-with-azure-blockchain-workbench-apis-56c0d95c79c0
 
 
 ## Decentralized Identity
