@@ -10,17 +10,17 @@ Channel9 BlockTalk Videos: https://channel9.msdn.com/Shows/Blocktalk
 
 ## Blockchain on Azure
 
-Microsoft Blockchain: https://azure.microsoft.com/en-ca/solutions/blockchain/
+- Microsoft Blockchain: https://azure.microsoft.com/en-ca/solutions/blockchain/
 
-Azure Blockchain Community Examples: https://github.com/Azure-Samples/bc-community-samples
+- Azure Blockchain Community Examples: https://github.com/Azure-Samples/bc-community-samples
 
-Starbucks Blockchain Use Case Overview at //Build: https://mybuild.techcommunity.microsoft.com/sessions/77348?source=sessions#top-anchor
+- Starbucks Blockchain Use Case Overview at //Build: https://mybuild.techcommunity.microsoft.com/sessions/77348?source=sessions#top-anchor
 
 ### Azure Blockchain Service (Quorum)
 
-Azure Blockchain Service: https://azure.microsoft.com/en-ca/services/blockchain-service/
+- Azure Blockchain Service: https://azure.microsoft.com/en-ca/services/blockchain-service/
 
-Azure Blockchain Service Tutorials: https://docs.microsoft.com/en-us/azure/blockchain/service/send-transaction
+- Azure Blockchain Service Tutorials: https://docs.microsoft.com/en-us/azure/blockchain/service/send-transaction
 
 ##### Quorum Sample on Azure Blockchain Service with Functions + Keyvault: https://github.com/malirezai/QuorumFunctionWithKeyVault
 
