@@ -8,6 +8,9 @@ Follow MSFTBlockchain on Twitter: https://twitter.com/MSFTBlockchain
 A Collection of bite-sized videos on everything Blockchain
 Channel9 BlockTalk Videos: https://channel9.msdn.com/Shows/Blocktalk
 
+## Blockchain Ecosystems Whitepaper
+https://azure.microsoft.com/en-us/resources/what-are-blockchain-enabled-digital-ecosystems/
+
 ## Blockchain on Azure
 
 - Microsoft Blockchain: https://azure.microsoft.com/en-ca/solutions/blockchain/
