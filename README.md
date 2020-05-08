@@ -119,3 +119,5 @@ https://azure.microsoft.com/en-us/resources/what-are-blockchain-enabled-digital-
 - Conensys - list of Government agencies using blockchain today: https://consensys.net/blog/enterprise-blockchain/which-governments-are-using-blockchain-right-now/
 
 - Conensys - Blockchain use cases: https://consensys.net/blockchain-use-cases/
+
+- GS1 - standards in blockchain and IoT: https://www.gs1.org/sites/default/files/docs/internet-of-things/gs1_blockchain_external_messaging_a4.pdf
