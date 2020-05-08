@@ -92,8 +92,8 @@ https://azure.microsoft.com/en-us/resources/what-are-blockchain-enabled-digital-
 
 - CCF (Confidential Consortium Framework using Azure Confidential Compute): https://github.com/microsoft/CCF
 
-## Baseline Protocol - using public blockchain as enterprise systmes of record:
-- https://docs.baseline-protocol.org/baseline-protocol/protocol
+## Baseline Protocol - using public blockchain a common state of reference
+- https://docs.baseline-protocol.org/
 
 ## Token Taxonomy 
 
