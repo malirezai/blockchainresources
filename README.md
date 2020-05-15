@@ -15,7 +15,8 @@ https://azure.microsoft.com/en-us/resources/what-are-blockchain-enabled-digital-
 
 - Microsoft Blockchain: https://azure.microsoft.com/en-ca/solutions/blockchain/
 
-- Azure Blockchain Community Examples: https://github.com/Azure-Samples/bc-community-samples
+- Azure Blockchain Community Examples - a collection of great samples from the community:
+    https://github.com/Azure-Samples/bc-community-samples
 
 - Starbucks Blockchain Use Case Overview at //Build: https://mybuild.techcommunity.microsoft.com/sessions/77348?source=sessions#top-anchor
 
