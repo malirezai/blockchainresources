@@ -120,6 +120,8 @@ https://azure.microsoft.com/en-us/resources/what-are-blockchain-enabled-digital-
 
 ## Interesting Reads
 
+- Kaleido - technical analysis between different blockchain platforms: https://www.kaleido.io/blockchain-blog/enterprise-blockchain-protocols-a-technical-analysis-of-ethereum-vs-fabric-vs-corda
+
 - Conensys - list of Government agencies using blockchain today: https://consensys.net/blog/enterprise-blockchain/which-governments-are-using-blockchain-right-now/
 
 - Conensys - Blockchain use cases: https://consensys.net/blockchain-use-cases/
