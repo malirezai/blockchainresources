@@ -37,6 +37,7 @@ https://azure.microsoft.com/en-us/resources/what-are-blockchain-enabled-digital-
 
 ### Hyperleger Fabric Template for Azure Kubernetes Service
 - AKS Template Source and guide: https://github.com/Azure/Hyperledger-Fabric-on-Azure-Kubernetes-Service
+- Private Deployment guide for AKS HLF Template: https://github.com/venuvedam/blockchain/blob/master/HLF%20on%20AKS%20with%20Private%20IP.md
 
 ### (NEW) Azure Blockchain Service for Hyperleger Fabric (Private Preview)
 - Managed HLF Orderer and Peer nodes Sign up for the private preview here: https://aka.ms/hlfpreviewsignup 
