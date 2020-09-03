@@ -20,6 +20,35 @@ https://azure.microsoft.com/en-us/resources/what-are-blockchain-enabled-digital-
 
 - Starbucks Blockchain Use Case Overview at //Build: https://mybuild.techcommunity.microsoft.com/sessions/77348?source=sessions#top-anchor
 
+
+### Azure Blockchain Workbench PoC Accelerator Framework
+
+- Blockchain Workbench: https://aka.ms/abcworkbench
+
+- Blockchain Workbench Github Repo: https://github.com/Azure-Samples/blockchain
+
+- Blockchain Workbench Mobile App: https://github.com/Azure-Samples/blockchain-devkit/tree/master/connect/mobile/blockchain-workbench/workbench-client
+
+- Blockchain Workbench REST API Samples + Postman Collection: https://github.com/Azure-Samples/blockchain/tree/master/blockchain-workbench/rest-api-samples
+
+- Workbench Webinar Recording: https://1drv.ms/v/s!ArI5vFdaEzMrhQ4o_q-q8eiG_w_m
+
+- Workbench Intro Video part 1: https://www.youtube.com/watch?v=gwrYspdaOx8
+
+- Workbench Intro Video part 2: https://www.youtube.com/watch?v=mlRx52p61_g&t=129s
+
+- Workbench Workshop: https://github.com/microsoft/MCW-Azure-Blockchain
+
+- **Sample of connecting with Service Principal through API:** https://github.com/malirezai/WorkbenchAzureFunctionAPI
+
+- **API-API (Service Principal) interaction Blog Post:** https://medium.com/@malirezaie/how-to-enable-programmatic-interaction-with-azure-blockchain-workbench-apis-56c0d95c79c0
+
+### Azure Blockchain DevKit
+
+- Azure Blockchain DevKit: https://github.com/Azure-Samples/blockchain-devkit
+
+- Azure Blockchain DevKit Extension for VSCode: https://marketplace.visualstudio.com/items?itemName=AzBlockchain.azure-blockchain
+
 ### Azure Blockchain Service (Quorum)
 
 - Azure Blockchain Service: https://azure.microsoft.com/en-ca/services/blockchain-service/
@@ -49,38 +78,6 @@ https://azure.microsoft.com/en-us/resources/what-are-blockchain-enabled-digital-
 
 #### Corda Enterprise Scale Deployment (IaaS) Guide: 
 - Corda IaaS PDF: https://azure.microsoft.com/en-us/resources/corda-enterprise-scale-deployment-on-azure/en-us/
-
-### Azure Blockchain Tokens 
-
-- TTF 1.0 compliant token issuance and management across blockchain ledgers in Azure.: https://docs.microsoft.com/en-us/azure/blockchain/tokens/
-
-### Azure Blockchain DevKit
-
-- Azure Blockchain DevKit: https://github.com/Azure-Samples/blockchain-devkit
-
-- Azure Blockchain DevKit Extension for VSCode: https://marketplace.visualstudio.com/items?itemName=AzBlockchain.azure-blockchain
-
-
-### Azure Blockchain Workbench PoC Accelerator Framework
-
-- Blockchain Workbench: https://aka.ms/abcworkbench
-
-- Blockchain Workbench Github Repo: https://github.com/Azure-Samples/blockchain
-
-- Blockchain Workbench REST API Samples + Postman Collection: https://github.com/Azure-Samples/blockchain/tree/master/blockchain-workbench/rest-api-samples
-
-- Workbench Webinar Recording: https://1drv.ms/v/s!ArI5vFdaEzMrhQ4o_q-q8eiG_w_m
-
-- Workbench Intro Video part 1: https://www.youtube.com/watch?v=gwrYspdaOx8
-
-- Workbench Intro Video part 2: https://www.youtube.com/watch?v=mlRx52p61_g&t=129s
-
-- Workbench Workshop: https://github.com/microsoft/MCW-Azure-Blockchain
-
-- **Sample of connecting with Service Principal through API:** https://github.com/malirezai/WorkbenchAzureFunctionAPI
-
-- **API-API (Service Principal) interaction Blog Post:** https://medium.com/@malirezaie/how-to-enable-programmatic-interaction-with-azure-blockchain-workbench-apis-56c0d95c79c0
-
 
 ## Decentralized Identity
 
