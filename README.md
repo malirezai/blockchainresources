@@ -65,6 +65,7 @@ https://azure.microsoft.com/en-us/resources/what-are-blockchain-enabled-digital-
 - Get real-time ledger data from ABS: https://docs.microsoft.com/en-us/azure/blockchain/service/data-manager
 
 ### Hyperleger Fabric Template for Azure Kubernetes Service
+- Documentation: https://docs.microsoft.com/en-us/azure/blockchain/templates/hyperledger-fabric-consortium-azure-kubernetes-service
 - AKS Template Source and guide: https://github.com/Azure/Hyperledger-Fabric-on-Azure-Kubernetes-Service
 - Private Deployment guide for AKS HLF Template: https://github.com/venuvedam/blockchain/blob/master/HLF%20on%20AKS%20with%20Private%20IP.md
 
